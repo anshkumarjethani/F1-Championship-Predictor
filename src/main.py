@@ -1,3 +1,1 @@
-import greeting 
-
-print("Hello from main.py!")
+print("Hello, World!")
